@@ -22,4 +22,4 @@ I'm a data scientist based in Copenhagen, working at Lundbeck Pharma.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1F70C1?logo=sas&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?logo=ktor&logoColor=white)
-![Link check](https://github.com/LeonidBresjnev/bibliografi/actions/workflows/link-check.yml/badge.svg)
+![Link check](https://github.com/LeonidBresjnev/bibliografi/actions/workflows/Deploy GitHub Pages.yml/badge.svg)
